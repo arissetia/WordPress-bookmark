@@ -1,7 +1,9 @@
 # WordPress-bookmark
 List WordPress Resource for Developer, I collected  over time. Sorted from general knowledge to advance developer
 
- **WordPress news/Blog :**
+# WordPress news/Blog :
+> The best Place to learn about WordPress and improving skill.
+
   1. [WPBeginner](http://www.wpbeginner.com/) **[all]** all kind advice and tutorial for end-user & develope you can found here , if you really new with WordPress. here the article for beginner [beginnert guide](http://www.wpbeginner.com/guides/).
   2. [Do it with WP](https://www.doitwithwp.com/) **[all]** if you into blogging stuff, you can find many advice from this site how to do it with WordPress , not only blogging stuff but some they article really helpful for developer.
   3. [ThemeShaper](http://themeshaper.com/) **[all]** you can learn how to make WordPress here , not only a "beginner" resource but also the blog will help you to become a great developer as long as you read & implement his advice blog (check yourself if you don't believe me).
