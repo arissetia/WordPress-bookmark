@@ -12,18 +12,33 @@ List WordPress Resource for Developer, I collected  over time. Sorted from gener
   6. [WPRecipes](http://www.wprecipes.com/) **[developer recomended]** this site is great , you can find many code to change your WordPress and to make it work like you want, and you can learn how to code from this site.
   7. [WPSnipp](http://wpsnipp.com/) **[developer only]** same as [WPRecipes](http://www.wprecipes.com/) but this site have larger snippet code for you.
   8. [Official WordPress blog](https://wordpress.org/news/) **[developer only]** this is not the best place, but you need this add to add in your Rss , they always update their code after commit/change WordPress, so you will always up to date with a newer change in WordPress.
+  
+===
 
 ### tutorial/course
 
+===
+
 ### Plugin 
+
+===
 
 ### Free Theme
 
+===
+
 ### WordPress Builder 
+
+===
 
 ### WordPress Framework 
 
+===
+
 ### WordPress Business
+
+===
 
 ### WordPress Market Place
 
+===
