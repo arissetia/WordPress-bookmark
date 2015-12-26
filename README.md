@@ -31,7 +31,7 @@ List WordPress Resource for Developer, I collected  over time. Sorted from gener
 > the best way to create website for Web designer. less code and it's kinda use photoshop just drag & drop element.
 
  1. [Make by themefoundry](https://thethemefoundry.com/wordpress-themes/make/) **Free (GPL you can ask your friend) & paid version**
- 2. [Divi by elegantTheme](http://www.elegantthemes.com/gallery/divi/) **Free for GPL | Paid to get all theme*
+ 2. [Divi by elegantTheme](http://www.elegantthemes.com/gallery/divi/) **Free for GPL | Paid to get all theme**
  3. [X the Theme by THEMECO](http://themeforest.net/item/x-the-theme/5871901?ref=broaris) **Paid only**
  4. [Monstroid WordPress by Mercury](http://www.templatemonster.com/wordpress-themes/monstroid/) **Paid only**
  5. [builder by theme](http://themify.me/builder) **You need to buy their theme to get builder**
