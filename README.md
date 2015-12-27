@@ -37,10 +37,30 @@ List WordPress Resource for Developer, I collected  over time. Sorted from gener
  5. [builder by theme](http://themify.me/builder) **You need to buy their theme to get builder**
  6. [LayerWP by Obox](http://www.layerswp.com/) **Free & paid version with many plugin & feature**
  7. [Visual Composser by Wpbakery](http://vc.wpbakery.com/) **Paid (1 site, multiple use)**
+ 8. [PB sandwich by Titanframework](https://pagebuildersandwich.com/) **Paid and worth for designer who don't want to touch code even a little & really easily to manage for user**
 
 ===
 
 ### WordPress Framework 
+> You don't need to make WordPress from scratch code, you just need add and edit the exits framework.
+> read this for the best explanation [click here](https://premium.wpmudev.org/blog/choosing-a-wordpress-theme-framework-the-ultimate-guide/)... Oh yeah mostly all of them is Free and Open Source
+
+1. [Chery Framework](http://www.cherryframework.com/)
+2. [hybrid Core Framework](http://themehybrid.com/hybrid-core)
+3. [Genesis Framework](http://my.studiopress.com/themes/genesis/) **expensive one($59) , lifetime and a great one**
+4. [Runway](http://runwaywp.com/)
+5. [Root = Sage, Bedrock, Trellis](https://roots.io/)  **a great one to combine with gulp/bower , should try this**
+6. [Themosis Framework](http://framework.themosis.com/) **Work great with composser and easy to customize the way user input**
+7. [Unyson](http://unyson.io/) **rich feature**
+8. [Redux](https://reduxframework.com/) **one of old framework for WordPress**
+9. [UnderScores](http://underscores.me/) **one of the best 'ligtweight' framework I've ever use , this gooide doesn't have any feature, but I love the structure code. oh yah less feature mean less download for user to load**
+10. [Warp](https://yootheme.com/themes/warp-framework)
+11. [WonderFlux](http://wonderflux.com/)
+12. [Beans](http://www.getbeans.io/)
+13. [Vafpress](http://vafpress.com/vafpress-framework/) **unique feture like Available Fields, Metabox Builder. just check out this framework**
+14. [Titan Framework](http://www.titanframework.net/) **it's different from any other framework, you need install it from plugin, it's a best way to make customize for you WordPress, so your client can easily configure the option**
+15. [WP MVC](http://wpmvc.org/) **a framework with MVC**
+16. [Hearbert](http://getherbert.com/) **framework for plugin MUST HAVE FOR DEVELOPER WHO MAKE their own PLUGIN**
 
 ===
 
