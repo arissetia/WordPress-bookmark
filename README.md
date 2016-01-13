@@ -32,6 +32,7 @@ List WordPress Resource for Developer, I collected  over time. Sorted from gener
  4. [hueman](https://wordpress.org/themes/hueman/) theme for blogger and easy to add an adsense / advertising but not really good at responsive
  5. [sparkling](https://wordpress.org/themes/sparkling/) same as twentyfifteen but it's box-model and full responsive
  6. [virtue](http://www.kadencethemes.com/product/virtue-free-theme/) if you always post about project hardware or art , this theme maybe help you to post your product , oh yeah it's responsive and have a feature cart (commerce)
+ 7. [point] it's only for blogger and adsense , the style almost same as many blog in website. definitely not good if you need outstanding blog , but it have many plugin and premium features
 
 
 ===
